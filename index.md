@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages hello im brian
+# BRIAN KIM's First CS193 Homework
+- FAV THING #1 about CS193: the TA's are really funny
+- FAV THING #2 about CS193: I love the material! Seriously, I do.
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
